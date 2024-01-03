@@ -83,7 +83,7 @@ If you find this repository useful, please consider citing our work:
 
 ```
 @inproceedings{wang2023gmmformer,
-  title={GMMFormer: Gaussian-Mixture-Model based Transformer for Efficient Partially Relevant Video Retrieval},
+  title={GMMFormer: Gaussian-Mixture-Model Based Transformer for Efficient Partially Relevant Video Retrieval},
   author={Wang, Yuting and Wang, Jinpeng and Chen, Bin and Zeng, Ziyun and Xia, Shu-Tao},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2024}
