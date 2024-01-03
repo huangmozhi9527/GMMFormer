@@ -31,7 +31,7 @@ pip install -r requirements.txt
 3\. Download Datasets: All features of TVR, ActivityNet Captions and Charades-STA are kindly provided by the authors of [MS-SL].
 
 
-4\. Set root and data_root in config files (*e.g.*, ./Configs/gmmformer_tvr.py).
+4\. Set root and data_root in config files (*e.g.*, ./Configs/tvr.py).
 
 ## Run
 
