@@ -1,6 +1,6 @@
 # GMMFormer: Gaussian-Mixture-Model Based Transformer for Efficient Partially Relevant Video Retrieval
 
-This repository is the official PyTorch implementation of our AAAI 2024 paper [GMMFormer: Gaussian-Mixture-Model Based Transformer for Efficient Partially Relevant Video Retrieval](https://arxiv.org/pdf/2310.05195.pdf).
+This repository is the official PyTorch implementation of our AAAI 2024 paper [GMMFormer: Gaussian-Mixture-Model Based Transformer for Efficient Partially Relevant Video Retrieval](https://arxiv.org/abs/2310.05195v2).
 
 
 ## Catalogue <br> 
