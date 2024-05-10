@@ -16,7 +16,7 @@ This repository is the official PyTorch implementation of our AAAI 2024 paper [G
 
 1\. Clone this repository:
 ```
-git clone https://github.com/haungmozhi9527/GMMFormer.git
+git clone https://github.com/huangmozhi9527/GMMFormer.git
 cd GMMFormer
 ```
 
